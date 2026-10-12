@@ -1,0 +1,1 @@
+Place your profile photo or project screenshots in this folder. The portfolio currently uses a CSS-made initials avatar.

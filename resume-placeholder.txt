@@ -1,0 +1,1 @@
+Optional: add your actual resume as resume.pdf in this project folder, or remove the Download resume link from index.html.
